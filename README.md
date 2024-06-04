@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about MCUs
 - 💞️ I’m looking to collaborate on MCU developers
 - 📫 How to reach me ?: t.me/SUN_HELIOS
-- 😄 Pronouns: Helios, Hossein, ...
+- 😄 Pronouns: He....
 - ⚡ Fun fact: anything
 
 <!---
